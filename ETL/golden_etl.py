@@ -1,0 +1,52 @@
+import logging
+import create_schema_db as crt
+
+logging.basicConfig(level=logging.WARNING, force=True)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+
+
+def etl(event, context):
+    logger.info("Hello there")
+    logger.info("init ETL")
+    crt.create_schema()
+    logger.info("schema created")
+    crt.create_responsaveis()
+    logger.info("responsaveis created")
+    crt.create_casas()
+    logger.info("casas created")
+    crt.crete_moradores()
+    logger.info("moradores created")
+    crt.create_contas_pagar()
+    logger.info("contas a pagar created")
+    crt.create_pagamento()
+    logger.info("pagamentos created")
+    crt.create_contas_banco()
+    logger.info("Contas Banco created")
+    crt.create_documentos_oficiais()
+    logger.info("Documento Oficiais created")
+    crt.create_documentos()
+    logger.info("Documentos created")
+    crt.create_tarefas()
+    logger.info("Tarefa created")
+    crt.create_armazenamento()
+    logger.info("armazenamento created")
+    crt.create_instrumento()
+    logger.info("Instrumentos created")
+    crt.create_eletrodomesticos()
+    logger.info("Eletrodomesticos created")
+    crt.create_tarefas_instrumentos()
+    logger.info("Tarefas Instrumentos created")
+    crt.create_itens()
+    logger.info("Itens created")
+    crt.create_tarefas_itens()
+    logger.info("Tarefas Itens created")
+    crt.create_local_venda()
+    logger.info("local venda created")
+    crt.create_compras()
+    logger.info("Compras created")
+    logger.info("FINISH ETL")
+
+
+if __name__ == "__main__":
+    etl(None, None)

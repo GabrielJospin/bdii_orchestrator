@@ -1,0 +1,10 @@
+id_instrumento,nome,tipo,id_armazenamento
+1,Batedeira,eletro,4
+2,Microoondas,eletro,4
+3,Lava Louça,eletro,6
+4,Tesoura,Ferramenta,7
+5,Estilete,Ferramenta,7
+6,Serra,Ferramenta,6
+7,Bandeja,Cozinha,3
+8,Panela,cozinha,4
+9,Fondue,cozinha,9

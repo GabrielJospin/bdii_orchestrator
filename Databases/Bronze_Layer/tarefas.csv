@@ -1,0 +1,11 @@
+id_tarefa,nome,descricao,status,id_morador,id_casa
+1,Limpar casas,,Feito,1,1
+2,Lavar louca,,Fazendo,2,1
+3,Apostar no macaco,No jogo do bicho do seu ze,A Fazer,3,1
+4,Limpar garagem,e,Feito,1,2
+5,construir,construir uma coisa maluca d+,A Fazer,2,2
+6,revelar fotos,,Fazendo,3,2
+7,limpar lareira,,Fazendo,1,3
+8,Rebobinar Fitas,,Feito,2,3
+9,limpar Vinil,,A Fazer,3,3
+10,cozinhar,fazer a janta,a Fazer, 1, 1

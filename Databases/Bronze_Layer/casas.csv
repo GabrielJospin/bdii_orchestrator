@@ -1,0 +1,11 @@
+id_casa,cep,logradouro,bairro,cidade,uf,regiao,complemento,id_responsaveis
+1,04713-900,R. Da Paz 1313,Sto. Antonio,Sao Paulo,SP,Sudeste,Ap 12,1
+2,56410-970,Vila de Airi,Vila de Airi,Floresta,PE,Nordeste,No. 5,1
+3,69195-970,Rua Senador José Esteves 443,Centro,Boa Vista do Ramos,AM,Norte,,2
+4,44474-970,Avenida Beira Mar 1742,Centro,Barra Grande,BA,Nordeste,,2
+5,77930-970,Rua Augustinópolis 103,,Setor Central,TO,Norte,,3
+6,89925-971,Rua Presidente Venceslau Bráz 60,Centro,Belmonte,SC,Sul,,3
+7,13560-350,Rua Campos Salles,Vila Monteiro (Gleba I),São Carlos,SP,Sudeste,No. 55,4
+8,30411-275,Praça Padre Rabelo,Calafate,Belo Horizonte,MG,Sudeste,No. 1,4
+9,82821-018,Rua Cyro Marés de Souza,Tarumã,Curitiba,PR,Sul,No. 18,5
+10,83090-394,Rua Ângelo José Miqueleto,São Marcos,São José dos Pinhais,PR,Sul,No. 32,5
