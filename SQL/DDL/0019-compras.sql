@@ -2,8 +2,8 @@ CREATE TABLE smart_home.compras(
     id_compra       INTEGER NOT NULL
 ,   id_casa         INTEGER NOT NULL
 ,   id_morador      INTEGER NOT NULL
-,   codigo_de_barra  INTEGER NOT NULL
-,   id_local  INTEGER NOT NULL
+,   codigo_de_barra INTEGER NOT NULL
+,   id_local        INTEGER NOT NULL
 ,   valor           INTEGER NOT NULL
 ,   unique(id_compra)
 ,   PRIMARY KEY(id_compra)
