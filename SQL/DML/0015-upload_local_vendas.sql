@@ -1,3 +1,3 @@
 COPY smart_home.local_venda
-FROM  '/home/gab_jos/Projects/BDII/Test_enverioment/Databases/Bronze_Layer/local_venda.csv'
+FROM  '/Users/fernanda.elimelek/Projetos/bdii_orchestrator/Databases/Bronze_Layer/local_venda.csv'
 CSV HEADER;

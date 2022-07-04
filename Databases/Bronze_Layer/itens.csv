@@ -1,15 +1,151 @@
 codigo_de_barra,nome,quantidade,marca,categoria,id_armazenamento
 11134578,Arroz,1,Tio joao,Alimento,4
-11166789,Fundue Queijo,2,Qualita,Alimento,4
-11274560,Vinho,1,Santa Helena,Alimento,4
-11796020,pao italiano,2,Carrefour,Alimento,4
-11667345,morango,50,Vendinha do ze,Alimento,4
-12121212,chocolate,2,Lacta,Alimento,4
-154454,Papel higienico,18,Neves,Higiene,5
-1717189,Desodorante,1,Rexona,Higiene,8
-11565658,Absorvente,2,Always,Higiene,8
-1515151,Camisa Xadrez,1,Renner,Roupa,2
-1616161,Pochete,1,C&A,Roupa,2
-82662689,Calca rasgada,1,Levis,Roupa,2
-65116516,Camiseta do Girl n red,1,Piticas,Roupa,2
-65165651,All Star Azul,1,Nando Reis,Roupa,2
+11134579,Fundue Queijo,2,Qualita,Alimento,4
+11134580,Vinho,1,Santa Helena,Alimento,4
+11134581,pao italiano,2,Carrefour,Alimento,4
+11134582,morango,50,Vendinha do ze,Alimento,4
+11134583,chocolate,2,Lacta,Alimento,4
+11134584,Papel higienico,18,Neves,Higiene,5
+11134585,Desodorante,1,Rexona,Higiene,8
+11134586,Absorvente,2,Always,Higiene,8
+11134587,Camisa Xadrez,1,Renner,Roupa,2
+11134588,Pochete,1,C&A,Roupa,2
+11134589,Calca rasgada,1,Levis,Roupa,2
+11134590,Camiseta do Girl n red,1,Piticas,Roupa,2
+11134591,All Star Azul,1,Nando Reis,Roupa,2
+11134592,Pochete,1,Adidas,Roupa,2
+11134593,Arroz,1,Tio joao,Alimento,4
+11134594,Fundue Queijo,2,Qualita,Alimento,4
+11134595,Vinho,1,Santa Helena,Alimento,4
+11134596,pao italiano,2,Carrefour,Alimento,4
+11134597,morango,50,Vendinha do ze,Alimento,4
+11134598,chocolate,2,Lacta,Alimento,4
+11134599,Papel higienico,18,Neves,Higiene,5
+11134600,Desodorante,1,Rexona,Higiene,8
+11134601,Absorvente,2,Always,Higiene,8
+11134602,Camisa Xadrez,1,Renner,Roupa,2
+11134603,Pochete,1,C&A,Roupa,2
+11134604,Calca rasgada,1,Levis,Roupa,2
+11134605,Camiseta do Girl n red,1,Piticas,Roupa,2
+11134606,All Star Azul,1,Nando Reis,Roupa,2
+11134607,Pochete,1,Adidas,Roupa,2
+11134608,Arroz,1,Tio joao,Alimento,4
+11134609,Fundue Queijo,2,Qualita,Alimento,4
+11134610,Vinho,1,Santa Helena,Alimento,4
+11134611,pao italiano,2,Carrefour,Alimento,4
+11134612,morango,50,Vendinha do ze,Alimento,4
+11134613,chocolate,2,Lacta,Alimento,4
+11134614,Papel higienico,18,Neves,Higiene,5
+11134615,Desodorante,1,Rexona,Higiene,8
+11134616,Absorvente,2,Always,Higiene,8
+11134617,Camisa Xadrez,1,Renner,Roupa,2
+11134618,Pochete,1,C&A,Roupa,2
+11134619,Calca rasgada,1,Levis,Roupa,2
+11134620,Camiseta do Girl n red,1,Piticas,Roupa,2
+11134621,All Star Azul,1,Nando Reis,Roupa,2
+11134622,Pochete,1,Adidas,Roupa,2
+11134623,Arroz,1,Tio joao,Alimento,4
+11134624,Fundue Queijo,2,Qualita,Alimento,4
+11134625,Vinho,1,Santa Helena,Alimento,4
+11134626,pao italiano,2,Carrefour,Alimento,4
+11134627,morango,50,Vendinha do ze,Alimento,4
+11134628,chocolate,2,Lacta,Alimento,4
+11134629,Papel higienico,18,Neves,Higiene,5
+11134630,Desodorante,1,Rexona,Higiene,8
+11134631,Absorvente,2,Always,Higiene,8
+11134632,Camisa Xadrez,1,Renner,Roupa,2
+11134633,Pochete,1,C&A,Roupa,2
+11134634,Calca rasgada,1,Levis,Roupa,2
+11134635,Camiseta do Girl n red,1,Piticas,Roupa,2
+11134636,All Star Azul,1,Nando Reis,Roupa,2
+11134637,Pochete,1,Adidas,Roupa,2
+11134638,Arroz,1,Tio joao,Alimento,4
+11134639,Fundue Queijo,2,Qualita,Alimento,4
+11134640,Vinho,1,Santa Helena,Alimento,4
+11134641,pao italiano,2,Carrefour,Alimento,4
+11134642,morango,50,Vendinha do ze,Alimento,4
+11134643,chocolate,2,Lacta,Alimento,4
+11134644,Papel higienico,18,Neves,Higiene,5
+11134645,Desodorante,1,Rexona,Higiene,8
+11134646,Absorvente,2,Always,Higiene,8
+11134647,Camisa Xadrez,1,Renner,Roupa,2
+11134648,Pochete,1,C&A,Roupa,2
+11134649,Calca rasgada,1,Levis,Roupa,2
+11134650,Camiseta do Girl n red,1,Piticas,Roupa,2
+11134651,All Star Azul,1,Nando Reis,Roupa,2
+11134652,Pochete,1,Adidas,Roupa,2
+11134653,Arroz,1,Tio joao,Alimento,4
+11134654,Fundue Queijo,2,Qualita,Alimento,4
+11134655,Vinho,1,Santa Helena,Alimento,4
+11134656,pao italiano,2,Carrefour,Alimento,4
+11134657,morango,50,Vendinha do ze,Alimento,4
+11134658,chocolate,2,Lacta,Alimento,4
+11134659,Papel higienico,18,Neves,Higiene,5
+11134660,Desodorante,1,Rexona,Higiene,8
+11134661,Absorvente,2,Always,Higiene,8
+11134662,Camisa Xadrez,1,Renner,Roupa,2
+11134663,Pochete,1,C&A,Roupa,2
+11134664,Calca rasgada,1,Levis,Roupa,2
+11134665,Camiseta do Girl n red,1,Piticas,Roupa,2
+11134666,All Star Azul,1,Nando Reis,Roupa,2
+11134667,Pochete,1,Adidas,Roupa,2
+11134668,Arroz,1,Tio joao,Alimento,4
+11134669,Fundue Queijo,2,Qualita,Alimento,4
+11134670,Vinho,1,Santa Helena,Alimento,4
+11134671,pao italiano,2,Carrefour,Alimento,4
+11134672,morango,50,Vendinha do ze,Alimento,4
+11134673,chocolate,2,Lacta,Alimento,4
+11134674,Papel higienico,18,Neves,Higiene,5
+11134675,Desodorante,1,Rexona,Higiene,8
+11134676,Absorvente,2,Always,Higiene,8
+11134677,Camisa Xadrez,1,Renner,Roupa,2
+11134678,Pochete,1,C&A,Roupa,2
+11134679,Calca rasgada,1,Levis,Roupa,2
+11134680,Camiseta do Girl n red,1,Piticas,Roupa,2
+11134681,All Star Azul,1,Nando Reis,Roupa,2
+11134682,Pochete,1,Adidas,Roupa,2
+11134683,Arroz,1,Tio joao,Alimento,4
+11134684,Fundue Queijo,2,Qualita,Alimento,4
+11134685,Vinho,1,Santa Helena,Alimento,4
+11134686,pao italiano,2,Carrefour,Alimento,4
+11134687,morango,50,Vendinha do ze,Alimento,4
+11134688,chocolate,2,Lacta,Alimento,4
+11134689,Papel higienico,18,Neves,Higiene,5
+11134690,Desodorante,1,Rexona,Higiene,8
+11134691,Absorvente,2,Always,Higiene,8
+11134692,Camisa Xadrez,1,Renner,Roupa,2
+11134693,Pochete,1,C&A,Roupa,2
+11134694,Calca rasgada,1,Levis,Roupa,2
+11134695,Camiseta do Girl n red,1,Piticas,Roupa,2
+11134696,All Star Azul,1,Nando Reis,Roupa,2
+11134697,Pochete,1,Adidas,Roupa,2
+11134698,Arroz,1,Tio joao,Alimento,4
+11134699,Fundue Queijo,2,Qualita,Alimento,4
+11134700,Vinho,1,Santa Helena,Alimento,4
+11134701,pao italiano,2,Carrefour,Alimento,4
+11134702,morango,50,Vendinha do ze,Alimento,4
+11134703,chocolate,2,Lacta,Alimento,4
+11134704,Papel higienico,18,Neves,Higiene,5
+11134705,Desodorante,1,Rexona,Higiene,8
+11134706,Absorvente,2,Always,Higiene,8
+11134707,Camisa Xadrez,1,Renner,Roupa,2
+11134708,Pochete,1,C&A,Roupa,2
+11134709,Calca rasgada,1,Levis,Roupa,2
+11134710,Camiseta do Girl n red,1,Piticas,Roupa,2
+11134711,All Star Azul,1,Nando Reis,Roupa,2
+11134712,Pochete,1,Adidas,Roupa,2
+11134713,Arroz,1,Tio joao,Alimento,4
+11134714,Fundue Queijo,2,Qualita,Alimento,4
+11134715,Vinho,1,Santa Helena,Alimento,4
+11134716,pao italiano,2,Carrefour,Alimento,4
+11134717,morango,50,Vendinha do ze,Alimento,4
+11134718,chocolate,2,Lacta,Alimento,4
+11134719,Papel higienico,18,Neves,Higiene,5
+11134720,Desodorante,1,Rexona,Higiene,8
+11134721,Absorvente,2,Always,Higiene,8
+11134722,Camisa Xadrez,1,Renner,Roupa,2
+11134723,Pochete,1,C&A,Roupa,2
+11134724,Calca rasgada,1,Levis,Roupa,2
+11134725,Camiseta do Girl n red,1,Piticas,Roupa,2
+11134726,All Star Azul,1,Nando Reis,Roupa,2
+11134727,Pochete,1,Adidas,Roupa,2

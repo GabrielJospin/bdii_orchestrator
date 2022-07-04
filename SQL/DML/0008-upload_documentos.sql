@@ -1,3 +1,3 @@
 COPY smart_home.documentos
-FROM  '/home/gab_jos/Projects/BDII/Test_enverioment/Databases/Bronze_Layer/documentos.csv'
+FROM  '/Users/fernanda.elimelek/Projetos/bdii_orchestrator/Databases/Bronze_Layer/documentos.csv'
 CSV HEADER

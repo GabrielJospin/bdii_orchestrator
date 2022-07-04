@@ -1,3 +1,3 @@
 COPY smart_home.casas
-FROM  '/home/gab_jos/Projects/BDII/Test_enverioment/Databases/Bronze_Layer/casas.csv'
+FROM  '/Users/fernanda.elimelek/Projetos/bdii_orchestrator/Databases/Bronze_Layer/casas.csv'
 CSV HEADER
