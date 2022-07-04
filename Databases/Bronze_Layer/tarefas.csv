@@ -9,3 +9,10 @@ id_tarefa,nome,descricao,status,id_morador,id_casa
 8,Rebobinar Fitas,,Feito,2,3
 9,limpar Vinil,,A Fazer,3,3
 10,cozinhar,fazer a janta,a Fazer, 1, 1
+11,Limpar casas,,Feito,1,3
+12,Limpar casas,,Feito,2,3
+13,Limpar casas,,Feito,3,3
+14,Limpar casas,,Feito,2,1
+15,surfar um maremoto,,Feito,1,10
+16,criar mini robos,,Feito,1,10
+17,colocar um mostro no diva,,Feito,1,10
